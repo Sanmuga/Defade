@@ -16,7 +16,7 @@ DEFADE is a real-time deepfake detection system designed to identify manipulated
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/defade.git
+git clone https://github.com/Sanmuga/defade.git
 cd defade
 ```
 
